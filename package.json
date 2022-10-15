@@ -1,5 +1,5 @@
 {
-  "name": "snake-to-camel",
+  "name": "snakecase-to-camelcase",
   "version": "0.0.1",
   "description": "Small util for converting snake case to camel",
   "main": "./index.js",
