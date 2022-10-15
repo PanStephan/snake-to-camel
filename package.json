@@ -1,0 +1,26 @@
+{
+  "name": "snake-to-camel",
+  "version": "0.0.1",
+  "description": "Small util for converting snake case to camel",
+  "main": "./index.js",
+  "types": "./types.d.ts",
+  "author": "stephan.startsev@gmail.com",
+  "repository": {
+    "url": "git@github.com:PanStephan/snake-to-camel.git",
+    "type": "git"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "peerDependencies": {},
+  "keywords": [
+    "react",
+    "typescript",
+    "camelToSnake",
+    "camelcase",
+    "snakecase"
+  ]
+}
